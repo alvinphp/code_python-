@@ -2,7 +2,7 @@
 
 ## 📁 Descripción del repositorio
 
-Este repositorio contiene **9 proyectos desarrollados en Python**, enfocados en la automatización de tareas del sistema y utilidades generales.
+Este repositorio contiene **proyectos desarrollados en Python**, enfocados en la automatización de tareas del sistema y utilidades generales.
 
 ## ⚙️ Funcionalidades principales
 
